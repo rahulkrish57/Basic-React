@@ -1,0 +1,19 @@
+Component
+    • stateless functional component
+    • always return JSX
+
+JSX Rules
+    • Return Single element
+    • div/section/article or fragment
+    • use camelCase for html attribute
+    • className instead of class
+    • close every element
+    • formatting
+
+Nested Components, React Tools
+
+props
+    • It is an object
+Events
+    • attribute, eventHandler
+    • onClick, onMouseOver
